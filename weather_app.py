@@ -5,7 +5,7 @@ import requests
 # API: OpenWeatherMap (https://openweathermap.org/api)
 # -----------------------------------------------
 
-API_KEY = "f368957185045f0cf75fbaef2b20791c"   # Replace with your actual API key
+API_KEY = ""   # Replace with your actual API key
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 
